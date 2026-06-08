@@ -1,0 +1,13 @@
+{
+  "name": "@kineticgain/zapier-automation-sprawl-auditor",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Kinetic Gain proof repo for Zapier platform and company signal coverage.",
+  "scripts": {
+    "demo": "node src/index.mjs fixtures/sample.json",
+    "build": "node src/index.mjs fixtures/sample.json --site site/report.json",
+    "test": "node --test"
+  },
+  "license": "AGPL-3.0-or-later"
+}

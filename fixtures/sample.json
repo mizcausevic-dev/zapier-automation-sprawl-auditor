@@ -1,0 +1,27 @@
+{
+  "vendor": "Zapier",
+  "domain": "Automation",
+  "lanes": [
+    {
+      "name": "Ownership clarity",
+      "risk": 68,
+      "evidence": 7,
+      "owner": "Platform owner",
+      "nextAction": "Confirm one accountable owner and one board-readable evidence packet."
+    },
+    {
+      "name": "Spend and exposure posture",
+      "risk": 74,
+      "evidence": 6,
+      "owner": "Finance and risk lead",
+      "nextAction": "Tie cost, access, or workflow exceptions to a remediation queue."
+    },
+    {
+      "name": "Decision readiness",
+      "risk": 61,
+      "evidence": 8,
+      "owner": "Executive sponsor",
+      "nextAction": "Summarize whether to invest, consolidate, remediate, or monitor."
+    }
+  ]
+}
